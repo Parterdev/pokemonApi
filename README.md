@@ -8,8 +8,6 @@ This project was created with [React Native CLI](https://reactnative.dev/) and [
 This project is a React Native (Interview Test):
  - react native v0.70.6
  - [stack-navigator](https://reactnavigation.org/docs/stack-navigator/) - (to make transitions between screens)
- - [react-navigation/material-bottom-tabs](https://reactnavigation.org/docs/material-bottom-tab-navigator/) - (material-design themed tab bar on the bottom)
- - [react-native-tab-view](https://github.com/satya164/react-native-tab-view) - (to slide different components and screens in a single view)
  - [react-native-image-colors](https://github.com/osamaqarem/react-native-image-colors) - (to get primary colors from an image)
  - [react-native-elements](https://reactnativeelements.com/) - (UI Toolkit for RN apps)
  - [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) - (UI buttons and logos)

@@ -2,7 +2,7 @@
 
 This project was created with [React Native CLI](https://reactnative.dev/) and [TypeScript](https://www.typescriptlang.org/) template.
 
-![PokemonApp](https://github.com/Parterdev/react-native-pokedex/blob/master/pokemonRN.gif)
+![PokemonApp](https://github.com/Parterdev/paulTeran_repos/blob/main/pokemonRN.gif)
 
 ## 1. Description
 This project is a React Native (Interview Test):

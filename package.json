@@ -1,0 +1,50 @@
+{
+  "name": "paulTeranRNPokemonTest",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint . --ext .js,.jsx,.ts,.tsx"
+  },
+  "dependencies": {
+    "@react-native-masked-view/masked-view": "^0.2.8",
+    "@react-navigation/native": "^6.1.2",
+    "@react-navigation/stack": "^6.3.11",
+    "@rneui/base": "^0.0.0-edge.2",
+    "@rneui/themed": "^0.0.0-edge.2",
+    "axios": "^1.2.2",
+    "react": "18.1.0",
+    "react-native": "0.70.6",
+    "react-native-gesture-handler": "^2.9.0",
+    "react-native-image-colors": "^1.5.1",
+    "react-native-safe-area-context": "^4.4.1",
+    "react-native-screens": "^3.18.2",
+    "react-native-vector-icons": "^9.2.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.12",
+    "@babel/plugin-transform-modules-commonjs": "^7.20.11",
+    "@babel/preset-env": "^7.20.2",
+    "@babel/runtime": "^7.12.5",
+    "@react-native-community/eslint-config": "^2.0.0",
+    "@testing-library/react-hooks": "^8.0.1",
+    "@testing-library/react-native": "^11.5.0",
+    "@tsconfig/react-native": "^2.0.2",
+    "@types/jest": "^29.2.5",
+    "@types/react": "^18.0.21",
+    "@types/react-native": "^0.70.6",
+    "@types/react-test-renderer": "^18.0.0",
+    "@typescript-eslint/eslint-plugin": "^5.37.0",
+    "@typescript-eslint/parser": "^5.37.0",
+    "babel-jest": "^29.3.1",
+    "eslint": "^7.32.0",
+    "jest": "^29.3.1",
+    "metro-react-native-babel-preset": "0.72.3",
+    "react-test-renderer": "18.1.0",
+    "ts-jest": "^29.0.5",
+    "typescript": "^4.8.3"
+  }
+}

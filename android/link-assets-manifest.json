@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/FingerPaint-Regular.ttf",
+      "sha1": "573f617222c2f6f3db0303416ea4e8ed8fbe7727"
+    },
+    {
+      "path": "src/assets/fonts/Pokemon-Hollow.ttf",
+      "sha1": "0d9951d3380b31319e2de9546dfd96a399b56f71"
+    },
+    {
+      "path": "src/assets/fonts/Pokemon-Solid.ttf",
+      "sha1": "604b78675e244487f0efd80662ac5b899353b80e"
+    }
+  ]
+}

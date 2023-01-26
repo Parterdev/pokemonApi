@@ -1,18 +1,18 @@
-# ⚛️React Native Pokemon App
+# ⚛️ React Native Pokemon App
 
 This project was created with [React Native CLI](https://reactnative.dev/) and [TypeScript](https://www.typescriptlang.org/) template.
 
-![PokemonApp](https://github.com/Parterdev/paulTeran_repos/blob/main/pokemonRN.gif)
+<img width="5000px" height="250px" 
+  src="https://i.ibb.co/18Mrmpg/Screen-Shot-2023-01-26-at-11-42-08.png" />
 
 ## 1. Description
-This project is a React Native (Interview Test):
+This project it's a new practical React Native App (CLI) with plenty components and functionality:
  - react native v0.70.6
  - [stack-navigator](https://reactnavigation.org/docs/stack-navigator/) - (to make transitions between screens)
  - [react-native-image-colors](https://github.com/osamaqarem/react-native-image-colors) - (to get primary colors from an image)
  - [react-native-elements](https://reactnativeelements.com/) - (UI Toolkit for RN apps)
  - [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) - (UI buttons and logos)
  - [axios](https://www.npmjs.com/package/axios) - (Promise HTTP package)
-   
  - More things: Custom hooks, components, helpers, interfaces, navigator and more. 
 
 

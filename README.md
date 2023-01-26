@@ -2,7 +2,7 @@
 
 This project was created with [React Native CLI](https://reactnative.dev/) and [TypeScript](https://www.typescriptlang.org/) template.
 
-<img width="5000px" height="250px" 
+<img width="5000px" height="300px" 
   src="https://i.ibb.co/18Mrmpg/Screen-Shot-2023-01-26-at-11-42-08.png" />
 
 ## 1. Description
